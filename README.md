@@ -13,11 +13,11 @@ We want to create/mantain a kata catalog from those sites
 
 If You:
 * find another Kata list/catalog
-* find any error
+* find any error  
 Just [create a issue](https://github.com/maceiocodingdojo/katas/issues/new). We will add that here.
 
 Or if You want to:
 * put new Kata
 * translate some Kata
-* correct something
+* correct something  
 Just fork this project and create a pull request.
